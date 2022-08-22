@@ -11,11 +11,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para entrar em contato, o link para meu e-mail está abaixo!
  
 <div> 
-  
-  <a href="https://instagram.com/gabriell998" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   
   <a href = "mailto:gabrielmoraes2507@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Gabriel-Moraes98/Gabriel-Moraes98/blob/output/github-contribution-grid-snake.svg)
